@@ -5,7 +5,7 @@ This project was created on the occasion of the [Hays x Manchester City Football
 :womens: **Authors :** Lutecity ([Chloé Gobé](https://github.com/ChloeGobe)
 & [Melanie Baconnais](https://github.com/mbaconnais))
 
-:link: **App**  You can find the app [lutecity2023.eu.pythonanywhere.com](lutecity2023.eu.pythonanywhere.com)
+:link: **App**  You can find the app [lutecity2023.eu.pythonanywhere.com](http://lutecity2023.eu.pythonanywhere.com/)
 
 <div align="center">
     <img src="img/5569387.jpg" height=200>
