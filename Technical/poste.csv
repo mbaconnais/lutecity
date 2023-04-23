@@ -1,0 +1,26 @@
+type;position_name;offensive;defensive
+Defender;Right Center Back;0.20;0.80
+Defender;Left Center Back;0.20;0.80
+Defender;Center Back;0.20;0.80
+Defender;Left Back;0.25;0.75
+Defender;Right Back;0.25;0.75
+Defender;Left Wing Back;0.30;0.70
+Defender;Right Wing Back;0.30;0.70
+Midfield;Center Defensive Midfield;0.34;0.66
+Midfield;Right Defensive Midfield;0.34;0.66
+Midfield;Left Defensive Midfield;0.34;0.66
+Midfield;Left Center Midfield;0.50;0.50
+Midfield;Center Midfield;0.50;0.50
+Midfield;Right Center Midfield;0.50;0.50
+Midfield;Left Midfield;0.50;0.50
+Midfield;Right Midfield;0.50;0.50
+Midfield;Center Attacking Midfield;0.67;0.33
+Midfield;Right Attacking Midfield;0.67;0.33
+Midfield;Left Attacking Midfield;0.67;0.33
+Forward;Left Wing;0.75;0.25
+Forward;Right Wing;0.75;0.25
+Forward;Center Forward;0.80;0.20
+Forward;Left Center Forward;0.80;0.20
+Forward;Right Center Forward;0.80;0.20
+Forward;Secondary Striker;0.80;0.20
+Goalkeeper;Goalkeeper;0.1;0.90
