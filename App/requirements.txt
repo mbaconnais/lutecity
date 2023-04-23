@@ -1,0 +1,17 @@
+# Dash & Plotly
+dash==2.5.0
+plotly
+dash_bootstrap_components==1.0.0
+gunicorn==20.0.4
+flask==2.0.3
+
+# Data
+numpy
+pandas
+scikit-learn
+matplotlib
+
+# Football
+plotly_football_pitch==0.0.3
+floodlight == 0.4.0
+ruptures
