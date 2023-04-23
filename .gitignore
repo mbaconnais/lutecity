@@ -3,3 +3,4 @@ __pycache__/
 settings.json
 
 Data/Second_Spectrum
+*/.DS_Store
