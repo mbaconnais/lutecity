@@ -2,6 +2,8 @@
 
 This project was created on the occasion of the [Hays x Manchester City Football City](https://app.hayscodeco.com/events/hackathon/be474355-e892-4604-8db8-0c3019f6c59e) hackathon which took place from 24 March to 24 April 2023.
 
+:3rd_place_medal: 3rd prize of the Hackathon awarded on May 24th 2023 at Manchester.
+
 :womens: **Authors :** Lutecity ([Chloé Gobé](https://github.com/ChloeGobe)
 & [Melanie Baconnais](https://github.com/mbaconnais))
 
